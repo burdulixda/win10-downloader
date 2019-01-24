@@ -70,7 +70,7 @@ img {
     width: 120px;
 }
 
-.flex:hover {
+.flex a:hover{
     opacity: 0.4;
 }
 
